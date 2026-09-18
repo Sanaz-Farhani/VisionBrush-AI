@@ -1,6 +1,6 @@
 # VisionBrush-AI
 A real-time computer vision drawing tool that tracks hand landmarks and gestures to paint and create shapes in mid-air via webcam using OpenCV and MediaPipe.
-# 🎨 AirCanvas AI: Real-Time Hand Gesture Painting
+# 🎨 VisionBrush-AI: Real-Time Hand Gesture Painting
 
 VisionBrush-AI is a real-time computer vision drawing system built with **OpenCV**, **MediaPipe**, and **NumPy**. It tracks hand landmarks in 3D space via a standard webcam, translating natural finger gestures into strokes, geometric primitives, and UI selections without physical touching or specialized hardware.
 
